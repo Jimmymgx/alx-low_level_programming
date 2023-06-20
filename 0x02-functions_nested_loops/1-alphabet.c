@@ -1,9 +1,11 @@
 #include "main.h"
 /*
  *main - prints alphabets
+ *
+ *description: prints aphabets
+ *
  *return 0 (success)
- *description - prints aphabets
- */
+ * */
 void print_alphabet(void)
 {
 	char c = 'a';
