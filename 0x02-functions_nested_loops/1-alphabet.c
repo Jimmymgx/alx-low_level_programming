@@ -1,11 +1,7 @@
 #include "main.h"
-/*
- *main - prints alphabets
- *
- *description: prints aphabets
- *
- *return 0 (success)
- * */
+/**
+ * print_alphabet - prints the alphabe, in lowercase, followed by a new line
+ */
 void print_alphabet(void)
 {
 	char c = 'a';
